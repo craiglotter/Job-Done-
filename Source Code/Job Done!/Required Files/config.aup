@@ -1,0 +1,3 @@
+APPLICATION_NAME=Job Done!
+EXECUTABLE=Job Done!.exe
+MANIFEST=http://www.commerce.uct.ac.za/Services/CodeUnit/AutoUpdate/Job Done!/manifest.xml
